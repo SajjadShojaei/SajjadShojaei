@@ -3,6 +3,7 @@
 <!--
 **SajjadShojaei/SajjadShojaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SajjadShojaei&theme=vue-dark&hide_border=true)](https://git.io/streak-stats) >
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
